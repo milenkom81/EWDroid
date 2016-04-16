@@ -20,7 +20,7 @@ Obviously, this will all be held confidential, but the point is to be able to po
 
 The beta is currently set to use one of our Nagios servers.  It will note work on any other Nagios servers at this time due to the Nagios component not being distributed (yet).
 
-When you first run the app, you will need to click "device name." You can accept the default or name your device whatever you want. WHATEVER it is, you need to tell me so I can add it to our Nagios configuration.  Alerts for down devices are NOT currently provided, as the current testing is mainly to see if it will install on other people's devices and work from outside our firewalls properly.
+When you first run the app, you will need to click "device name." You can accept the default or name your device whatever you want. **WHATEVER it is, you need to tell me so I can add it to our Nagios configuration**.  Alerts for down devices are NOT currently provided, as the current testing is mainly to see if it will install on other people's devices and work from outside our firewalls properly.
 
 At this time, the information logged to our server is only visible to me.  That will change as we figure out what sort of remote access can be provided for beta users.
 
